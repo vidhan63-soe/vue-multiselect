@@ -117,5 +117,9 @@
     "dist",
     "src",
     "index.d.ts"
-  ]
+  ],
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  }
 }
